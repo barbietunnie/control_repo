@@ -1,2 +1,2 @@
-# control_repo
+# Control repo
 Puppet control repository
